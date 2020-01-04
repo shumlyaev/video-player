@@ -1,0 +1,26 @@
+#player {
+    max-width: 1000px;
+}
+#video {
+    width: 100%;
+}
+#play {
+    padding: 5px;
+    display: block;
+    float: left;
+    margin-right: 5px;
+}
+#mute {
+    padding: 5px;
+    display: block;
+    float: left;
+    width: 40px;
+    margin-right: 5px;
+}
+#volume {
+    width: 100px;
+    display: block;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
